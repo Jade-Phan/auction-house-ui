@@ -1,0 +1,25 @@
+{
+  "name": "solana",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.17.12",
+    "@metaplex-foundation/mpl-auction-house": "^2.3.2",
+    "@project-serum/serum": "^0.13.65",
+    "@project-serum/sol-wallet-adapter": "^0.2.6",
+    "@solana/spl-token": "^0.3.7",
+    "@solana/spl-token-registry": "^0.2.4574",
+    "@solana/wallet-base": "^0.0.1",
+    "@solana/wallet-ledger": "^0.0.1",
+    "@solana/web3.js": "^1.73.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security"
+  }
+}
